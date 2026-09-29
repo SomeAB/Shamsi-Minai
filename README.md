@@ -2,7 +2,7 @@
 
 Shamsi Minai (1919-1988) was a renowned poet from Basti, Uttar Pradesh, India.
 
-This repo contains some of his famous works, including the famous nazm *“Sab Kuchh Hai Apne Des Mein Roti Nahin To Kya”*.
+This repo contains some of his works, including the famous nazm *“Sab Kuchh Hai Apne Des Mein Roti Nahin To Kya”*.
 
 I have hand transliterated and translated these works in my spare time.
 
